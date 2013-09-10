@@ -64,6 +64,7 @@ have a chance to activate your Magic Wand!)
 to invoke a special event: get the Sant Pete Ruby.
 
 <strong>[DEAD END]</strong> If you then head south to the Bone Yard and fight, you'll die.
+
 7) Go east, then south to the market, sell the Ruby and get 5000 Belis.
 
 8) Buy the Ark.
