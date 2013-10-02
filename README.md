@@ -63,7 +63,8 @@ have a chance to activate your Magic Wand!)
 6) Go north, then west to the entrance of Bone Yard, you should be able
 to invoke a special event: get the Sant Pete Ruby.
 
-[DEAD END] If you then head south to the Bone Yard and fight, you'll die.
+<strong>[DEAD END]</strong> If you then head south to the Bone Yard and fight, you'll die.
+
 7) Go east, then south to the market, sell the Ruby and get 5000 Belis.
 
 8) Buy the Ark.
@@ -74,9 +75,9 @@ to invoke a special event: get the Sant Pete Ruby.
 
 11) Go north, then east to the mountainous land of unknown.
 
-[DEAD END] If you then head south to the Dead Sea, you'll die.
+<strong>[DEAD END]</strong> If you then head south to the Dead Sea, you'll die.
 
-[DEAD END] If you then head east to the Fire Woods and fight, you'll
+<strong>[DEAD END]</strong> If you then head east to the Fire Woods and fight, you'll
 also die.
 
-12) [TRUE END] Head north to the den of the Devil Dark Dragon, fight it with the Excalibur - and you'll win!
+12) <strong>[TRUE END]</strong> Head north to the den of the Devil Dark Dragon, fight it with the Excalibur - and you'll win!
